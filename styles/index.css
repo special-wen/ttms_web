@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.landing-page #logo{
+    color: #6d6e76;
+    font-size: 18px;
+    /*height: 55px;*/
+    line-height: 55px;
+    text-align: center;
+}
